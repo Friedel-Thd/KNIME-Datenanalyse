@@ -1,0 +1,22 @@
+   ID	produkt				produktkategory
+     1	17in_Monitor   			monitor
+     2	20in_Monitor			monitor
+     3	27in_4K_Gaming_Monitor		monitor
+     4	27in_FHD_Monitor		monitor
+     5	34in_Ultrawide_Monitor		monitor
+     6	AAA_Batteries_(4-pack)		battery
+     7	AA_Batteries_(4-pack)		battery
+     8	Apple_Airpods_Headphones	headphones
+     9	Bose_SoundSport_Headphones	headphones
+    10	Soundsystem			accessoires
+    11	Google_Phone			phone
+    12	iPhone				phone
+    13	LG_Dryer			white goods
+    14	LG_Washing_Machine		white goods
+    15	Lightning_Charging_Cable	accessoires
+    16	Macbook_Pro_Laptop		laptop
+    17	Mouse USB			accessoires
+    18	ThinkPad_Laptop			laptop
+    19	USB-C_Charging_Cable		accessoires
+    20	Vareebadd_Phone			phone
+    21	Wired_Headphones		headphones
